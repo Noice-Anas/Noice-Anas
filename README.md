@@ -8,21 +8,8 @@ I'm passionate about building impactful software and constantly learning new tec
 ## 🚀 About Me
 
 - 💻 **Profession:** Senior Software Engineer
-- 🛠️ **Top Skills:** Swift, SwiftUI, Python, with experience in Java, JavaScript, Kotlin, and R
+- 🛠️ **Top Skills:** Swift, SwiftUI, Python, with experience web developemnt
 - ✨ **Interests:** I love learning new things—sometimes so much that it takes time out of my daily tasks!
-
----
-
-## 📌 Featured Projects
-
-- **[My Karage](https://apps.apple.com/sa/app/my-karage/id1603396836)** 
-  A fully SwiftUI-built application available on the App Store. I developed the entire frontend for this project.
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/anas-al-halabi/)
 
 ---
 
